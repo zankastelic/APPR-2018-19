@@ -7,7 +7,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 * [![Shiny](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/jaanos/APPR-2018-19/master?urlpath=shiny/APPR-2018-19/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/zankastelic/APPR-2018-19/master?urlpath=rstudio) RStudio
 
-## Analiza porabljenega časa za učenje v NUKu in s katerih fakultet je največ študentov
+## Analiza porabljenega časa za učenje v NUKu in s katerih fakultet se jih uči največ
 
 Za projektno nalogo sem si izbral analizo porabljenega časa za učenje v NUKu. Primerjal bom, kdaj se učimo največ: pred izpitnim obdobjem, med izpitnim obdobjem ali sproti in kolikšen delež časa je študent na odmoru. Analiziral bom tudi delež spolov v knjižnici in s katerih koncev Slovenije se jih v knjižnici uči največ. Cilj pa je, da pokažem iz katerih fakultet je največ študentov, ter koliko časa so v povprečju v knjižnici. Pogledal bom tudi, kolikšen delež študentov se uči v NUKu, glede na število vpisanih študentov v letnik (npr. koliko % študentov se uči v NUKu, ki hodijo v 2 letnik strojne fakultete.)
 
